@@ -77,13 +77,7 @@ Stay in touch with our control tower:
 
 *Where virtual pilots become real friends*
 
----
-
-<div align="center">
-  <strong>My Crew Online</strong> • Virtual Aviation • Real Community
-</div>
-
-## Documentation Table of Contents
+## Documentation
 
 - [Code of Conduct](./../docs/CODE_OF_CONDUCT.md)
 - [Contributing Guidelines](./../docs/CONTRIBUTING.md)
