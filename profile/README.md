@@ -83,6 +83,14 @@ Stay in touch with our control tower:
   <strong>My Crew Online</strong> • Virtual Aviation • Real Community
 </div>
 
+## Documentation Table of Contents
+
+- [Code of Conduct](./../docs/CODE_OF_CONDUCT.md)
+- [Contributing Guidelines](./../docs/CONTRIBUTING.md)
+- [Governance Guidelines](./../docs/GOVERNANCE.md)
+- [Security Policy](./../docs/SECURITY.md)
+- [Support Guidelines](./../docs/SUPPORT.md)
+
 ---
 
 *"The sky is not the limit when you're flying with friends"*
