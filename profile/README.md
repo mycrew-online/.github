@@ -8,22 +8,16 @@ Welcome to **My Crew Online** – the premier destination for flight simulation 
 
 **My Crew Online** is the comprehensive hub for flight simulation communities. We bring virtual aviators together through:
 
-- **Virtual Airlines** - Professional flight simulation organizations and career progression
-- **Crew Coordination** - Tools to organize flights, events, and group activities
 - **Flight Tracking** - Real-time monitoring and logging of virtual flights
 - **Community Events** - Group flights, air shows, and aviation challenges
 - **Training Programs** - Educational resources for pilots of all skill levels
 
 ## 🛠️ Our Aviation Technology
 
-Built for pilots, by pilots, using cutting-edge technology:
+Built for sim pilots, by sim pilots, using cutting-edge technology:
 
 - **Real-time Flight Tracking** - Live monitoring of community flights
 - **Multi-Simulator Support** - Compatible with MSFS, X-Plane, P3D, and more
-- **Voice Integration** - VATSIM/IVAO integration for realistic ATC communications
-- **Weather Systems** - Real-world weather data integration
-- **Aircraft Management** - Fleet tracking and maintenance scheduling
-- **Route Planning** - Advanced flight planning and navigation tools
 
 ## 🎯 Our Mission
 
@@ -41,16 +35,8 @@ We support all major flight simulation platforms:
 - **Microsoft Flight Simulator (MSFS)** - Latest generation realistic flying
 - **X-Plane** - Professional-grade flight dynamics and systems
 - **Prepar3D** - Advanced simulation for serious virtual aviators
-- **DCS World** - Military aviation and combat simulation
-- **FlightGear** - Open-source flight simulation community
 
 ## 🌍 Virtual Aviation Services
-
-**For Virtual Airlines:**
-- Fleet management and pilot tracking
-- Route networks and scheduling systems
-- Pilot training and certification programs
-- Financial management and statistics
 
 **For Individual Pilots:**
 - Personal flight logging and statistics
